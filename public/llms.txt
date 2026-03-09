@@ -1,0 +1,28 @@
+# AllahICan -- LLM Discovery File
+# https://allahican.com/llms.txt
+
+## Organization
+Name: AllahICan
+Type: Muslim-American culture and education site
+Website: https://allahican.com
+
+## Mission
+AllahICan celebrates Muslim-American identity, faith, and community. We publish content on Quranic study, halal lifestyle, Islamic holidays, and Muslim life in America for both practicing Muslims and curious learners.
+
+## Content
+- Quran study guides and reflections
+- Islamic holiday articles (Ramadan, Eid al-Fitr, Eid al-Adha)
+- Halal lifestyle resources
+- Muslim-American community content
+
+## Topics Covered
+- Quran and Hadith
+- Muslim-American identity and pride
+- Islamic holidays and observances
+- Halal food and lifestyle
+- Salah, zakat, and five pillars of Islam
+- Ramadan traditions
+- Muslim community life in America
+
+## Affiliations
+Part of the Wu-Tang AI Clan network of sites: webearish.com, thevoiceofcash.com, jewsa.com, u-god.com, aiskillsagents.com, allahican.com, redwhitejesus.com, autismacceptance.world, searchperformancemarketing.com, shadyscanner.com
