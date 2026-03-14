@@ -702,6 +702,348 @@ The art has always been here. America is finally looking.
 
 **Related reading:** [Famous Muslim Americans Who Shaped This Country](/blog/famous-muslim-americans) | [Being Muslim-American: The Second Generation Experience](/blog/muslim-american-second-generation)`,
   },
+  {
+    slug: "ramadan-in-america-what-its-really-like",
+    title: "Ramadan in America: What It's Really Like",
+    description: "The iftar potlucks in someone's living room, the awkward office explanations, the 2 AM suhoors, the community that holds it all together. What Ramadan actually feels like when you live it here.",
+    category: "Religion",
+    date: "2026-03-01",
+    content: `Ask a Muslim American what Ramadan is like and they will probably start with the food. The 3 AM alarm. The scrambled eggs eaten in the dark before fajr. The long afternoon at work where everyone else is on their second coffee and you are running on faith and tap water. But ask them what they love about it and they will tell you about the table.
+
+The iftar table is the heart of Ramadan in America. It is different in every community, shaped by wherever people came from and what they brought with them. A Pakistani-American family breaks fast with dates and chai, then brings out the biryani and the haleem. A Somali family has sambusas and suuqaar. A Syrian family passes the fattoush first. A second-generation convert shows up to his mosque's community iftar with a pan of cornbread because he wanted to contribute something and he makes good cornbread. Everyone is welcome. The table always has room.
+
+## The Living Room Iftars
+
+The most distinctly American version of Ramadan is the living room iftar -- the potluck gathering organized by a text thread, held in someone's too-small apartment, where forty people somehow fit and the food runs out in twelve minutes because everyone cooked enough for fifty.
+
+These happen all over the country. In cities, they are organized by Muslim Student Associations, Islamic centers, neighborhood groups. In smaller towns, they might be just a few families rotating whose house gets crowded this week. The formula is always the same: someone brings dates, someone brings soup, someone brings an entire roasted lamb, someone brings a cake from a bakery that misspells Ramadan Mubarak on the frosting, and it is perfect.
+
+The living room iftar is where American Islam lives. It is informal, abundant, multi-ethnic, multi-generational, and genuinely welcoming to anyone who wants to come. Non-Muslim neighbors, curious coworkers, people who wandered in after being invited once six months ago and have not missed an iftar since -- they all show up. Nobody checks credentials.
+
+## The Office Explanations
+
+Every Muslim American who has worked in an office has a collection of these conversations.
+
+"So you cannot eat anything? Not even water?" Not even water. "For the whole month?" For the whole month. "How do you do it?" Practice and intention. "You must be so hungry." Not as much as you would think after the first week. "You seem fine." I am fine. "Can I eat in front of you?" You can eat in front of me.
+
+Most people are genuinely curious and genuinely considerate. The colleague who quietly stops scheduling lunch meetings during Ramadan without making a announcement. The manager who checks in about Eid before assuming you will be available. These small acts of accommodation mean more than people probably realize.
+
+The harder conversations are rarer but they happen. The coworker who wants to debate fasting as a health choice. The manager who treats the prayer break on Friday like a special favor rather than a religious right. The person who says "I just don't understand why you would do that to yourself" with a tone that is not quite curiosity and not quite hostility but somewhere in between.
+
+Muslim Americans have been navigating this for decades. They are patient about it. Patient does not mean it is not tiring.
+
+## What Changes at Night
+
+The rhythm of Ramadan flips everything. The day is quiet, careful, conserving. The night opens up.
+
+After iftar and Maghrib prayer, the mosque fills for Tarawih -- the special long prayers of Ramadan that happen only in this month. In big mosques in major cities, these prayers can last well over an hour. A hafiz -- someone who has memorized the entire Quran -- leads the congregation through a portion of the text each night, finishing the whole book by Laylat al-Qadr. The sound of those recitations in a full mosque is something that stays with you.
+
+After Tarawih, people stay and talk. This is the social hour of Ramadan -- the coffee shop that opens at 10 PM, the text threads that start after midnight, the friends who call each other at 1 AM because they are all awake anyway. Ramadan nights in Muslim-American neighborhoods have an energy that is genuinely its own thing. Something between a holiday and a spiritual retreat.
+
+## The Last Ten Nights
+
+By the last ten nights of Ramadan, something shifts. The exhaustion is real -- you have been waking before dawn for three weeks, going to bed after midnight, fasting all day. But the intensity picks up instead of winding down.
+
+Laylat al-Qadr, the Night of Power, falls somewhere in the last ten nights -- most Muslims believe it is the 27th, though the exact night is uncertain, and many try to treat all ten nights as potentially the one. The Quran describes it as better than a thousand months. The Prophet Muhammad is reported to have spent these nights in prayer and reflection.
+
+In American mosques, the last ten nights mean extended night prayers, extended Quran recitation, sometimes all-night vigils. You will see people sleeping in the mosque between prayers. You will see children brought by their parents, lying on prayer rugs, falling asleep to the sound of Arabic. You will see old men weeping in the back rows.
+
+It is not easy. It is also, for many Muslims, the most alive they feel all year.
+
+## Eid Morning
+
+Ramadan ends with a new moon and an announcement. The night before Eid, phones start buzzing with messages. Eid Mubarak. Eid Mubarak. Eid Mubarak.
+
+The Eid prayer happens at the mosque or at a large outdoor space -- some communities rent stadiums and parks. It is the biggest gathering of the Muslim year. New clothes. The smell of perfume and cooking. Children running. Old men embracing. The imam saying the takbir and everyone saying it back.
+
+Then it is over, and the celebration begins. New clothes were laid out the night before. The big meal is already in preparation. Children are collecting Eidi -- gifts of money from the adults in their lives. Families are rotating through visits to relatives.
+
+For Muslim Americans, Eid is also the day they find out whether their employer gave them the day off or whether they are burning PTO. It is the day Muslim kids have to explain to their teachers why they were absent. In New York City, Eid is now a school holiday. In most of the country, it is not yet. But the push continues.
+
+The month ends. The community carries it forward. Next year, inshallah.
+
+**Related reading:** [What Is Ramadan? A Plain English Guide](/blog/what-is-ramadan-plain-english-guide) | [Eid al-Fitr vs Eid al-Adha: What Is the Difference?](/blog/eid-al-fitr-vs-eid-al-adha)`,
+  },
+  {
+    slug: "muslim-americans-who-changed-history",
+    title: "Muslim Americans Who Changed History",
+    description: "From the Olympian who broke a 181-year rule to the engineer who redesigned the American skyline to the ancestors who were here before the nation existed -- a look at Muslim Americans who shaped this country.",
+    category: "History",
+    date: "2026-03-03",
+    content: `The story of Muslim Americans who shaped this country does not begin with Muhammad Ali. It begins centuries earlier, in cotton fields and trade routes and prayer rugs spread on the ground of a continent being violently claimed by others. Understanding the full scope of Muslim-American contribution requires starting at the actual beginning.
+
+## The Enslaved Muslims Who Came First
+
+Historians estimate that 15 to 30 percent of enslaved Africans brought to the Americas were Muslim. Many came from regions of West Africa where Islam had been the dominant religion for centuries -- Senegambia, the Mali Empire, the Fula people's lands. They arrived literate in Arabic when many of their enslavers could not read in any language.
+
+Omar ibn Said, enslaved in North Carolina, wrote his autobiography in 1831 in Arabic -- one of the few existing first-person narratives in Arabic from an enslaved person in America. He described his education in Senegal, his enslavement, his continued practice of Islam. His manuscript survived. His name belongs in every conversation about American literary history.
+
+Job Ben Solomon -- known in his homeland as Ayuba Suleiman Diallo -- was enslaved in Maryland in 1730. He could recite the entire Quran from memory. He wrote three copies of it from memory while enslaved. Through a series of extraordinary events, he was freed, met the British royal family, and eventually returned to his homeland. His story was documented by contemporaries and is one of the most detailed accounts of an enslaved Muslim's experience in colonial America.
+
+These men and the millions like them are the foundation. Their faith, their literacy, their resistance, and their endurance are part of what America is.
+
+## Fazlur Rahman Khan: The Man Who Built the American Skyline
+
+If you have looked at the Chicago skyline, you have looked at Fazlur Rahman Khan's work. The Bangladeshi-American structural engineer, born in Dhaka in 1929 and educated in the United States, designed the Sears Tower (now Willis Tower) and the John Hancock Center -- for decades the two tallest buildings in the world.
+
+Khan revolutionized how tall buildings are built. His "tubular" structural system made skyscrapers dramatically more efficient, allowing them to go higher with less material. He is called the "Einstein of structural engineering" and the "father of tubular designs for high-rises." His work did not just change Chicago. It changed how cities look worldwide.
+
+Khan was a practicing Muslim who brought a philosophy of humility and purpose to his work. He believed architecture should serve people, not impress them. He died in 1982 at 52. His name should be as well known as the buildings he made.
+
+## Muhammad Ali: The Conscience of a Generation
+
+Cassius Clay became Muhammad Ali in 1964 when he converted to Islam and joined the Nation of Islam. The conversion was not a quiet personal matter -- Ali announced it publicly, changed his name publicly, and spoke about his faith publicly at a time when both the Nation of Islam and Islam broadly were widely feared and misunderstood by mainstream America.
+
+Then came 1967. Ali refused induction into the U.S. Army, citing religious objection to the Vietnam War. He was stripped of his heavyweight title, convicted of draft evasion, and banned from boxing for three years -- prime years of an athlete's career. He appealed all the way to the Supreme Court and won.
+
+"My conscience won't let me go shoot my brother, or some darker people, or some poor hungry people in the mud for big powerful America," he said. "And shoot them for what? They never called me nigger, they never lynched me, they didn't put no dogs on me, they didn't rob me of my nationality, rape and kill my mother and father. Shoot them for what?"
+
+Ali is universally recognized now as a hero and a giant. In 1967, calling him that would have gotten you looks. He was right then too. His willingness to stand on principle while the whole country came down on him -- that is an American story. That is also a Muslim-American story.
+
+## Kareem Abdul-Jabbar: The Athlete Who Never Stopped Thinking
+
+Lew Alcindor converted to Islam in 1971 and became Kareem Abdul-Jabbar. He played 20 seasons in the NBA, won six championships, earned six MVP awards, and retired as the all-time leading scorer in NBA history -- a record that stood for 38 years.
+
+But Abdul-Jabbar's contribution is not just athletic. He has spent decades writing -- newspaper columns, books, essays -- explaining Islam, addressing racism, engaging with American history and culture with precision and patience. His writing about the civil rights of Muslim Americans, about Black history, about the obligations of the privileged to speak -- this is work that belongs in the record.
+
+He was never a comfortable figure. He refused to do press interviews for years. He declined to attend the 1968 Olympics in protest of American racism. He was criticized constantly. He kept going.
+
+## Ibtihaj Muhammad: The Olympian Who Changed the Rules
+
+Ibtihaj Muhammad became the first American athlete to compete in the Olympics while wearing hijab, at the 2016 Rio Games, where she won a bronze medal in fencing. She was also one of the first athletes to compete under the banner of a Muslim-majority country while representing the United States -- representing the full complexity of what Muslim American identity is.
+
+After Rio, she became an author, an activist, and the inspiration for the first hijab-wearing Barbie doll. She has spoken about the double consciousness of Muslim American life -- the experience of having your patriotism questioned while standing on an Olympic podium -- with clarity and grace.
+
+## Keith Ellison: The First
+
+In 2007, Keith Ellison of Minnesota became the first Muslim elected to the United States Congress. His swearing-in ceremony used Thomas Jefferson's personal copy of the Quran -- a copy Jefferson owned in 1765, two hundred and forty years before Ellison stood in the Capitol holding it.
+
+That detail is not a coincidence. It is a reminder that Islam and America have been in conversation for longer than the country has been a country. Jefferson wrote about Islam in his notes on religious freedom. The first Quran in the Library of Congress was purchased in 1800. The architecture of Islamic governance influenced some of the founders' thinking about checks and balances.
+
+Ellison later became Attorney General of Minnesota. He was not the last Muslim American elected to national office. Rashida Tlaib, Ilhan Omar, Andre Carson followed. The list grows.
+
+## Dave Chappelle: The Artist
+
+One of the greatest comedians in American history, Dave Chappelle converted to Islam in 1998. He has spoken about how his faith has grounded him through the specific chaos of being a famous Black man in America -- the pressures, the compromises demanded, the ways fame tries to reshape you.
+
+His comedy has always been about identity, about race, about the distance between how Americans see themselves and how they actually are. That kind of comedy requires a center, a place to stand. For Chappelle, Islam has been that place.
+
+The list continues. Mos Def (Yasiin Bey), Lupe Fiasco, Ice Cube, Queen Latifah, Shaquille O'Neal, Janet Jackson -- Muslim Americans in music and sports and culture, shaping what Americans hear and see and feel. The contributions are everywhere. They have always been there.
+
+**Related reading:** [The First Mosques in America: A History You Didn't Learn in School](/blog/first-mosques-in-america-history) | [Famous Muslim Americans Who Shaped This Country](/blog/famous-muslim-americans)`,
+  },
+  {
+    slug: "non-muslim-guide-to-your-muslim-neighbor",
+    title: "A Non-Muslim's Guide to Your Muslim Neighbor",
+    description: "What to know, what to ask, what not to ask, how to be a good neighbor during Ramadan and Eid, and why your curiosity is actually appreciated. A warm, honest guide.",
+    category: "Community",
+    date: "2026-03-05",
+    content: `You have a Muslim neighbor, colleague, classmate, or friend. You want to understand their life better. Maybe you have been curious for a while. Maybe a recent conversation left you realizing how little you actually know. Maybe you are just the kind of person who wants to know the people around them.
+
+This guide is for you.
+
+## First, a Few Things to Know
+
+**Muslims are not a monolith.** Islam is the world's second-largest religion, practiced by 1.8 billion people across every continent, in hundreds of countries, in dozens of languages. A Muslim from Lagos and a Muslim from Karachi and a Muslim from Minnesota may share core beliefs and practices while having almost nothing else in common culturally. When you learn something about one Muslim, you have learned something about one Muslim.
+
+**Islam is not foreign to America.** Muslims have been in North America for centuries. Many Muslim Americans are third, fourth, or fifth generation. The person you are curious about may have a deeper connection to this country than they do to the place their grandparents came from.
+
+**Most Muslim Americans are tired of being ambassadors.** They have answered the same ten questions hundreds of times. If you ask thoughtfully and listen genuinely, most will appreciate it. If you approach them as though they are responsible for explaining an entire religion and defending it, you are asking too much.
+
+## What to Ask
+
+Genuine questions, asked with genuine curiosity and respect, are almost always welcome. Here are questions that work:
+
+"What does [celebration/practice] mean to you?" Asking about personal experience rather than requiring a theological lecture. "What was Eid like growing up?" opens a real conversation.
+
+"Is there anything I should know to be respectful during Ramadan?" This is a question people appreciate because it shows intention. The answer is usually: nothing special, just be normal.
+
+"What's something about your faith that you wish more people understood?" This one gets to the heart of things. Be ready for a real answer.
+
+## What Not to Ask
+
+"So where are you really from?" If someone says they are from Chicago, they are from Chicago. If you want to know their family's heritage, ask that: "What's your family's background?" But be aware that for many Muslim Americans, especially those who are second or third generation, the question implies they cannot actually be from here.
+
+"Are you a radical?" or any variation of asking them to prove they are not a terrorist. This is both insulting and not how burden of proof works.
+
+"Don't you find it oppressive?" -- directed at a woman who wears hijab. She chose her clothing. You are asking her to defend it to you.
+
+"You must be so hungry/thirsty" every time you see them during Ramadan. They know. They chose this.
+
+"Why would your religion say that?" when you have read something disturbing about Islam online. They did not write the article and they are not responsible for whatever fringe position you encountered.
+
+## Ramadan: How to Be a Good Colleague and Neighbor
+
+Ramadan is the month when Muslim Americans are most visibly practicing their faith. Here is what helps:
+
+**Do not make a big deal of eating in front of them.** They chose to fast. They are not asking you to share their fast. Eat normally, talk normally. Making a production of not eating around them is its own awkward thing.
+
+**Do not schedule important events at iftar time** if you know when sunset is. A dinner meeting scheduled right at sunset, or a team happy hour during Ramadan, is inconsiderate. It is not a major ask to shift things slightly.
+
+**Wish them Ramadan Mubarak or Ramadan Kareem.** Both are correct greetings. It takes two seconds and means more than you might think.
+
+**Ask if they want to be included in any Eid recognition.** A quick "Hey, Eid is coming up, should we do something to mark it?" means a lot in a workplace that does not normally recognize Muslim holidays.
+
+**Understand that they are not available for lunch.** They are fasting. The lunch meeting works for everyone but them. Consider alternatives.
+
+## Eid: Two Holidays, Not One
+
+There are two Eids. Eid al-Fitr ends Ramadan. Eid al-Adha marks the end of Hajj. Both involve prayer, family, new clothes, and an enormous amount of food.
+
+If your neighbor or colleague celebrates Eid, "Eid Mubarak" is the correct greeting -- it means "Blessed Eid." Saying it is appreciated.
+
+If you are invited to an Eid celebration, go. You will eat well. You will meet people. You will learn things. Muslim holiday tables are open to everyone.
+
+One practical note: Eid is not a recognized holiday in most American schools and workplaces. Your Muslim colleague may be taking a personal day for the holiday. That is their own religious accommodation, not a free vacation day. Treat it accordingly.
+
+## Things That Help
+
+**Learn a few words.** Inshallah (God willing), Alhamdulillah (praise God), Mashallah (God has willed this -- used to express admiration), Assalamu Alaikum (peace be upon you -- the Islamic greeting). Using them incorrectly is not offensive; using them at all shows you paid attention.
+
+**Learn the basics of what halal means** so you can think ahead when organizing group meals. It is not complicated: no pork, no alcohol in food, meat must be halal-slaughtered. When ordering food for a group, asking "does anyone have dietary restrictions?" covers it -- and noting that halal options are available is appreciated.
+
+**Defend them when it matters.** If someone makes a comment that is unkind, a small correction from a non-Muslim carries a weight it does not carry from the Muslim in the room. You do not have to make a speech. "That's not really fair" is enough.
+
+## What Your Curiosity Means
+
+Most Muslim Americans -- especially those who have spent their lives explaining themselves -- will tell you that genuine curiosity, approached with respect, is appreciated. Not the curiosity that wants them to justify their existence or defend their faith against accusations. The curiosity that says: you are my neighbor, and I want to understand your life.
+
+That curiosity is an act of belonging. It says: you are here, you are part of this, and what matters to you matters to me enough to ask about.
+
+That is not a small thing.
+
+**Related reading:** [The Five Pillars of Islam, Explained Simply](/blog/five-pillars-of-islam-explained) | [What Is Ramadan? A Plain English Guide](/blog/what-is-ramadan-plain-english-guide)`,
+  },
+  {
+    slug: "first-mosques-in-america-history",
+    title: "The First Mosques in America: A History You Didn't Learn in School",
+    description: "Ross, North Dakota. Cedar Rapids, Iowa. Dearborn, Michigan. The story of the first mosques in America is a story of immigrants, farmers, factory workers, and a faith that planted itself in the American soil a century ago.",
+    category: "History",
+    date: "2026-03-07",
+    content: `The first mosque built specifically as a mosque in the United States was not in New York City. It was not in Washington, D.C., or in a major coastal city with a history of immigration. It was built in 1929 in Ross, North Dakota, by Lebanese and Syrian immigrants who had come to farm the prairie. This is a history most Americans -- including most Muslim Americans -- were never taught.
+
+## Ross, North Dakota: 1929
+
+The Muslims who built the Ross mosque were part of a wave of Arab immigration that came to the United States between roughly 1880 and 1924. They came mostly from Greater Syria -- what is now Lebanon, Syria, and parts of the surrounding region -- and they settled across the country, following work and opportunity. Some opened businesses in cities. Others went west and north, responding to the Homestead Act and the availability of cheap farmland in the Dakotas and Minnesota.
+
+By the early twentieth century, there were enough Muslim families in the Ross area -- farmers, merchants, families with children who needed to learn their religion -- that a community structure was needed. In 1929, they built a mosque. It was a simple wooden building, a single story, nothing architecturally remarkable. Inside: a prayer hall, a social room, the materials of a functioning religious community.
+
+The community that built it was small and scattered across the prairie. Keeping the mosque going required constant effort. Children grew up and moved to cities. Families dispersed. The congregation thinned. By the 1970s, the mosque was no longer in active use. In 1979, the building was demolished.
+
+In 2005, the community rebuilt it as a historical monument. It stands today in Ross as a marker of what was there -- evidence that Islam in America is not a recent story.
+
+## Mother Mosque of America: Cedar Rapids, Iowa, 1934
+
+The mosque that has the strongest continuous claim to being the oldest in the United States still in use is in Cedar Rapids, Iowa. It was built in 1934 by a community of Lebanese immigrants and their American-born children. It is called the Mother Mosque of America.
+
+Cedar Rapids had a Lebanese Muslim community dating to the 1880s. These were traders and merchants, mostly from what is now Lebanon, who came for economic opportunity and found it in the American Midwest. By the 1920s, the community was large enough to need a dedicated prayer space. In 1934, they purchased a building and converted it.
+
+The Mother Mosque is a two-story frame building, painted white, that looks from the outside like any number of modest American buildings of its era. Inside, it was adapted for Muslim worship: a prayer hall oriented toward Mecca, a place for wudu (ritual ablution), a community space. It has been in continuous use since 1934.
+
+The community that built it was not just maintaining a foreign tradition. They were American citizens -- some of them second-generation Americans -- who were also Muslims, building a space where both identities could coexist. The Mother Mosque is an American building.
+
+## Dearborn, Michigan: The Heart of Arab America
+
+No conversation about mosques in America can ignore Dearborn, Michigan. The Arab-American community in Dearborn -- the largest in the United States -- began forming in the early twentieth century when Henry Ford's River Rouge plant drew workers from across the world, including from Lebanon, Syria, and Yemen.
+
+By the 1940s and 50s, Dearborn had established Islamic institutions: prayer halls, informal mosques, community centers. The Islamic Center of America -- one of the largest mosques in North America -- is in Dearborn. It was founded in 1963 and moved to its current building, a landmark of Islamic architecture in the American Midwest, in 2005.
+
+Dearborn today is a destination for anyone who wants to understand what Muslim-American community life looks like at scale. The city has halal restaurants on every block, Arabic-language signs, mosques that draw thousands on Fridays, schools with significant Muslim enrollment. It is, in many ways, the capital of Arab America.
+
+## The Broader History
+
+The mosques of Ross and Cedar Rapids and Dearborn are the most documented early examples, but Islamic prayer in America predates all of them.
+
+Enslaved West African Muslims prayed in America in the 1600s and 1700s. Some maintained their practice in private, aware that public religious expression could invite punishment. Some converted under pressure but continued to pray secretly. Some taught Arabic to their children in defiance of laws against literacy for the enslaved. They had no mosques -- but they were Muslims, practicing their faith, on American soil, for centuries before the North Dakota prairie was even being farmed.
+
+Sidi Mohammed Ben Ali, a Muslim from Morocco, served as an interpreter for Thomas Jefferson and John Adams. Mohammed ibn Ahmed Al-Ahari, a West African Muslim scholar, had his writings preserved and studied. The historical record of early Muslim life in America is incomplete -- it was never meant to be complete -- but what exists points to a presence that is deep and long.
+
+## Why This History Matters
+
+The story of the first mosques in America matters for the same reason the Mayflower matters, the same reason Ellis Island matters: it is a founding story. It says this community was here, building, staying, putting down roots, making America their home.
+
+When Muslim Americans are treated as newcomers, as others, as recent arrivals to be tolerated or questioned, that treatment collides with a history that says otherwise. The mosque in Ross was built when the grandparents of many Muslim-American critics were themselves recently arrived immigrants. The Mother Mosque in Cedar Rapids was built during the Depression, by Americans making something permanent out of what they had.
+
+The first mosque was not an imposition on America. It was an expression of America -- of the same immigrant faith and community-building impulse that built Catholic churches and Jewish synagogues and Lutheran halls across this country.
+
+Islam was here. It built. It stayed. It is still here.
+
+**Related reading:** [Famous Muslim Americans Who Shaped This Country](/blog/famous-muslim-americans) | [Muslim Americans Who Changed History](/blog/muslim-americans-who-changed-history)`,
+  },
+  {
+    slug: "eid-gift-guide-2026",
+    title: "Eid Gift Guide 2026: What to Give and When",
+    description: "Gift ideas for Eid al-Fitr and Eid al-Adha -- for kids, adults, new Muslims, the host, the friend who deserves something thoughtful, and the person who has everything. Updated for 2026.",
+    category: "Culture",
+    date: "2026-03-10",
+    content: `Eid is twice a year. That means two opportunities to give something meaningful to the Muslim Americans in your life -- and two opportunities to give something generic that misses the point. This guide exists so you give something good.
+
+A note before we start: Eid is not Christmas. The gift-giving tradition varies widely by family and by culture. Some families do elaborate gift exchanges. Others focus on giving to children only. Some do not do gifts at all and focus on giving Eidi (cash) to kids. Ask the person you are shopping for what their family does before you show up with a wrapped box.
+
+## Eid al-Fitr vs. Eid al-Adha: Which Is When
+
+**Eid al-Fitr** comes at the end of Ramadan, on the first day of Shawwal (the month after Ramadan in the Islamic lunar calendar). In 2026, it falls in late March. It is the celebration of completing the fast -- joyful, communal, focused on family visits and good food. Gifts for Eid al-Fitr often have a celebratory, sweet, "you did it" energy.
+
+**Eid al-Adha** comes roughly 70 days later, on the 10th of Dhul Hijjah, the last month of the Islamic year. In 2026, it falls in early June. It commemorates Ibrahim's willingness to sacrifice his son and marks the culmination of Hajj. It has a slightly more solemn tone -- sacrifice, gratitude, generosity. Gifts for Eid al-Adha can lean into that spirit.
+
+## For the Children
+
+Children are the primary recipients of Eid gifts in most Muslim families. The traditional gift is Eidi -- cash, given by adults to kids. But if you want to give something more than an envelope, here are ideas that actually land:
+
+**Books about Muslim-American identity.** There is a growing shelf of children's books written by and for Muslim-American kids. Titles like "The Proudest Blue" by Ibtihaj Muhammad, "Under My Hijab" by Hena Khan, and "Crescent Moons and Pointed Minarets" by Hena Khan are genuinely good and appreciated by parents. [Browse Muslim children's books](https://www.amazon.com/s?k=muslim+american+children+books&tag=allahican-20).
+
+**AllahiCan gear.** A kid who gets to wear Muslim-American pride clothing on Eid morning is a happy kid. The Classic Tee comes in sizes. [Shop the AllahiCan store](https://store.allahican.com?tag=allahican-20).
+
+**Quranic learning tools.** Prayer mats with prayer position diagrams for kids, Quran app subscriptions, illustrated books about Islamic stories -- anything that makes learning about faith fun. [Explore Islamic learning gifts](https://www.amazon.com/s?k=islamic+learning+gifts+for+kids&tag=allahican-20).
+
+**Eid-specific items.** Eid banners, decorations, Eid-themed cookies, Eid gift bags -- the Eid decorating market has expanded significantly in recent years. If the family decorates for Eid, these hit. [Eid decorations on Amazon](https://www.amazon.com/s?k=eid+decorations+2026&tag=allahican-20).
+
+## For the Adults
+
+Adult gift-giving at Eid is less universal but increasingly common, especially in second-generation families and among friend groups.
+
+**Date boxes.** Dates break the Ramadan fast and carry deep spiritual significance. A beautiful box of premium Medjool dates is appropriate for Eid al-Fitr especially. [Premium date boxes](https://www.amazon.com/s?k=premium+medjool+dates+gift+box&tag=allahican-20).
+
+**Prayer accessories.** A quality prayer rug, a beautiful tasbih (prayer beads), a Quran with English translation in a beautiful binding -- these are gifts that get used and that reflect the giver's respect for the recipient's faith. [Shop prayer accessories](https://www.amazon.com/s?k=islamic+prayer+rug+gift+set&tag=allahican-20).
+
+**Attar / Islamic perfume.** Perfume and fragrance are strongly associated with Islamic practice -- the Prophet Muhammad loved scent, and oud-based attars (alcohol-free, oil-based perfumes) are a traditional gift. [Explore oud attars](https://www.amazon.com/s?k=oud+attar+islamic+perfume&tag=allahican-20).
+
+**AllahiCan merch for adults.** The Classic Tee and the Crescent & Stars Cap are exactly the kind of thing an adult Muslim American wants but might not buy for themselves. Thoughtful, identity-affirming, well-made. [Shop AllahiCan](https://store.allahican.com?tag=allahican-20).
+
+**Books.** For the reader in your life, consider titles like "No God But God" by Reza Aslan, "The Kite Runner" (if they have not read it), "American Islam" by Paul M. Barrett, or "Minaret" by Leila Aboulela. [Browse Islamic books](https://www.amazon.com/s?k=islam+american+culture+books&tag=allahican-20).
+
+## For the Host
+
+If you are invited to an Eid gathering, bring something. You are about to eat very well. Here is what works:
+
+**Sweets.** Every culture in the Muslim world has Eid sweets. Baklava is universally appreciated. If you know the family's background, a specialty sweet from their culture of origin is a thoughtful touch. If you do not know, baklava never fails. [Order baklava](https://www.amazon.com/s?k=baklava+gift+box&tag=allahican-20).
+
+**A nice tea or coffee setup.** After the meal, there will be tea. There is always tea. A box of quality loose-leaf tea or a good Arabic coffee blend is a gift that fits the moment. [Browse tea gift sets](https://www.amazon.com/s?k=arabic+tea+coffee+gift+set&tag=allahican-20).
+
+**Flowers or plants.** If the host family has a home that receives decorating attention, a flowering plant or a simple bouquet is always appropriate.
+
+**Do not bring alcohol.** Not as a thoughtless gesture, and not as a "well they can just not drink it." It does not belong at an Eid table. Bring something else.
+
+## For the New Muslim
+
+If someone in your life has recently converted to Islam, Eid is a significant moment for them -- possibly the first one they have celebrated, or the first one they have celebrated as a Muslim. A thoughtful gift acknowledges that this is new and meaningful.
+
+**A good Quran with translation.** There are many. The Sahih International translation is widely used and respected. The Abdel Haleem translation (Oxford World's Classics) is excellent for reading as literature. [Browse Quran translations](https://www.amazon.com/s?k=quran+english+translation+new+muslim&tag=allahican-20).
+
+**An introductory set.** Prayer rug, prayer beads, a copy of the Quran, a simple book on the five pillars -- a thoughtful new-Muslim starter kit shows you paid attention to where they are. [New Muslim gift sets](https://www.amazon.com/s?k=new+muslim+gift+set&tag=allahican-20).
+
+**AllahiCan gear.** For a new Muslim who is still finding their identity and community, wearing Muslim-American pride on their chest can be a small act of courage and a big statement of belonging. [Shop AllahiCan](https://store.allahican.com?tag=allahican-20).
+
+## The Gift That Always Works
+
+Show up. To the Eid prayer. To the family gathering you were invited to. To the potluck you were told you did not need to bring anything to (bring something anyway). Muslim Americans are used to celebrating holidays that their country does not officially recognize, in workplaces that do not give them the day off, among neighbors who are not quite sure what is happening. When someone shows up for Eid, it means something.
+
+That is the gift that always lands.
+
+Eid Mubarak. Shop well. Give well. Eat well.
+
+**Related reading:** [Eid al-Fitr vs Eid al-Adha: What Is the Difference?](/blog/eid-al-fitr-vs-eid-al-adha) | [Ramadan in America: What It's Really Like](/blog/ramadan-in-america-what-its-really-like)`,
+  },
 ];
 
 export function getPostBySlug(slug: string): BlogPost | undefined {

@@ -1,28 +1,97 @@
-# AllahICan -- LLM Discovery File
+# AllahiCan -- LLM Discovery File
 # https://allahican.com/llms.txt
 
 ## Organization
-Name: AllahICan
-Type: Muslim-American culture and education site
+Name: AllahiCan
+Type: Muslim-American culture, education, and pride merch site
 Website: https://allahican.com
+Store: https://store.allahican.com
 
 ## Mission
-AllahICan celebrates Muslim-American identity, faith, and community. We publish content on Quranic study, halal lifestyle, Islamic holidays, and Muslim life in America for both practicing Muslims and curious learners.
+AllahiCan celebrates Muslim-American identity, faith, and community. We sell Muslim-American pride gear
+and publish long-form content on Islamic culture, history, halal lifestyle, and what it means to be
+Muslim in America -- for both practicing Muslims and curious learners.
 
-## Content
-- Quran study guides and reflections
-- Islamic holiday articles (Ramadan, Eid al-Fitr, Eid al-Adha)
-- Halal lifestyle resources
-- Muslim-American community content
+## Routes
+- / (homepage) -- rotating hero, products, glossary, holidays calendar, culture stats, occasions, newsletter
+- /blog -- culture blog index, all posts
+- /shop -- shop page with product listings
+- /cart -- shopping cart with Stripe checkout
+- /order-success -- post-purchase confirmation
+- /advertise -- advertising and partnership information
+- /sitemap.xml -- sitemap
+- /robots.txt -- robots file
+- /.well-known/security.txt -- security contact
+- /humans.txt -- credits
+
+## Blog Posts
+- /blog/what-is-ramadan-plain-english-guide -- What Is Ramadan? A Plain English Guide for Americans
+- /blog/eid-al-fitr-vs-eid-al-adha -- Eid al-Fitr vs Eid al-Adha: What Is the Difference?
+- /blog/famous-muslim-americans -- Famous Muslim Americans Who Shaped This Country
+- /blog/first-mosque-in-america -- The First Mosque in America: A History
+- /blog/what-does-halal-mean -- What Does Halal Actually Mean?
+- /blog/muslim-american-second-generation -- Being Muslim-American: The Second Generation Experience
+- /blog/five-pillars-of-islam-explained -- The Five Pillars of Islam, Explained Simply
+- /blog/halal-food-guide-united-states -- The Muslim American's Guide to Halal Food Across the US
+- /blog/ramadan-in-america -- Ramadan in America: Fasting, Community, and Navigating the Workplace
+- /blog/muslim-american-entrepreneurs -- Muslim Americans Building Businesses: The Entrepreneurial Community
+- /blog/hijab-in-america-2025 -- Wearing Hijab in America Today: Confidence, Rights, and Identity
+- /blog/islamic-art-architecture-america -- Islamic Art and Architecture: America Is Finally Paying Attention
+- /blog/ramadan-in-america-what-its-really-like -- Ramadan in America: What It's Really Like
+- /blog/muslim-americans-who-changed-history -- Muslim Americans Who Changed History
+- /blog/non-muslim-guide-to-your-muslim-neighbor -- A Non-Muslim's Guide to Your Muslim Neighbor
+- /blog/first-mosques-in-america-history -- The First Mosques in America: A History You Didn't Learn in School
+- /blog/eid-gift-guide-2026 -- Eid Gift Guide 2026: What to Give and When
 
 ## Topics Covered
-- Quran and Hadith
 - Muslim-American identity and pride
-- Islamic holidays and observances
+- Islamic holidays and observances (Ramadan, Eid al-Fitr, Eid al-Adha, Hajj, Mawlid, Ashura)
 - Halal food and lifestyle
-- Salah, zakat, and five pillars of Islam
-- Ramadan traditions
+- Five pillars of Islam
+- Muslim-American history (first mosque 1929 Ross ND, enslaved Muslim Africans, Omar ibn Said)
+- Famous Muslim Americans (Muhammad Ali, Kareem Abdul-Jabbar, Ibtihaj Muhammad, Keith Ellison, Dave Chappelle, Fazlur Rahman Khan)
+- Hijab and Muslim women's rights in America
+- Muslim-American entrepreneurship
+- Islamic art and architecture
+- Glossary of Islamic terms (Inshallah, Mashallah, Habibi, Alhamdulillah, Barakallah, Jumu'ah, Eid, Ramadan)
+- Islamic calendar and lunar holidays
 - Muslim community life in America
+- Second-generation Muslim-American experience
 
-## Affiliations
-Part of the Wu-Tang AI Clan network of sites: webearish.com, thevoiceofcash.com, jewsa.com, u-god.com, aiskillsagents.com, allahican.com, redwhitejesus.com, autismacceptance.world, searchperformancemarketing.com, shadyscanner.com
+## Products
+- AllahiCan Classic Tee -- $28 -- Stars, stripes, and the basmala
+- Crescent & Stars Cap -- $25 -- Embroidered crescent and stars
+
+## Network Affiliations
+Part of The Voice of Cash / Wu-Tang AI Clan network of sites:
+- https://jewsa.com (JewSA -- Jewish-American pride)
+- https://hindusa-app.vercel.app (HindUSA -- Hindu-American pride)
+- https://webearish.com (WeBearish -- financial culture)
+- https://u-god.com (U-God Sacred Texts)
+- https://thevoiceofcash.com (The Voice of Cash -- flagship brand)
+- https://aiskillsagents.com (AI Skills Agents)
+- https://redwhitejesus.com (RedWhiteJesus -- Christian-American pride)
+- https://autismacceptance.world (Autism Acceptance)
+- https://searchperformancemarketing.com (Search Performance Marketing)
+- https://shadyscanner.com (Shady Scanner)
+
+## Technology Stack
+- Framework: Next.js 16 (App Router)
+- Language: TypeScript
+- Hosting: Vercel
+- Payments: Stripe
+- Email Marketing: Brevo
+- Fonts: Instrument Serif (headings), Space Grotesk (body) via Google Fonts
+- Styling: Inline styles + CSS variables
+
+## Design Palette
+- Forest green: #0C2E0C (primary background)
+- Deep green: #2D7D32 (accents, borders)
+- Gold: #C9A84C (headings, CTAs, highlights)
+- Cream: #FAFAF8 (body text)
+- Dark: #060C06 (cards, sections)
+
+## Contact
+Site: https://allahican.com
+Email: thevoiceofcash@gmail.com
+Security: https://allahican.com/.well-known/security.txt

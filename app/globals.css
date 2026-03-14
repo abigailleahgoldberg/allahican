@@ -23,9 +23,13 @@ html {
 body {
   background-color: var(--forest);
   color: var(--cream);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-body), sans-serif;
   line-height: 1.6;
   min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), serif;
 }
 
 a {
@@ -49,4 +53,10 @@ button {
 
 input, textarea {
   font-family: inherit;
+}
+
+@media (max-width: 900px) {
+  .grid-auto {
+    grid-template-columns: 1fr !important;
+  }
 }

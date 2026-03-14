@@ -1,0 +1,12 @@
+/* TEAM */
+Brand: AllahiCan
+Site: https://allahican.com
+Built by: The Wu-Tang AI Clan
+Network: The Voice of Cash
+
+/* THANKS */
+Alhamdulillah.
+
+/* TECHNOLOGY */
+Next.js, React, Vercel, Stripe
+Fonts: Instrument Serif, Space Grotesk (Google Fonts)
