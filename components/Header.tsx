@@ -52,6 +52,21 @@ export default function Header() {
             </a>
           </li>
           <li>
+            <a href="/holidays" style={{ color: "#FAFAF8", textDecoration: "none", fontSize: "15px", fontFamily: "var(--font-body), sans-serif" }}>
+              Holidays
+            </a>
+          </li>
+          <li>
+            <a href="/calendar" style={{ color: "#FAFAF8", textDecoration: "none", fontSize: "15px", fontFamily: "var(--font-body), sans-serif" }}>
+              Calendar
+            </a>
+          </li>
+          <li>
+            <a href="/daily-ayah" style={{ color: "#FAFAF8", textDecoration: "none", fontSize: "15px", fontFamily: "var(--font-body), sans-serif" }}>
+              Daily Ayah
+            </a>
+          </li>
+          <li>
             <a href="/shop" style={{ color: "#FAFAF8", textDecoration: "none", fontSize: "15px", fontFamily: "var(--font-body), sans-serif" }}>
               Shop
             </a>
@@ -174,6 +189,9 @@ export default function Header() {
         >
           {[
             { href: "/blog", label: "Culture" },
+            { href: "/holidays", label: "Holidays" },
+            { href: "/calendar", label: "Calendar" },
+            { href: "/daily-ayah", label: "Daily Ayah" },
             { href: "/shop", label: "Shop" },
             { href: "/cart", label: `Cart${cartItemCount > 0 ? ` (${cartItemCount})` : ""}` },
             { href: "/advertise", label: "Advertise" },

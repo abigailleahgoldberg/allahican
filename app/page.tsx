@@ -80,49 +80,49 @@ const glossaryTerms = [
 const holidays = [
   {
     name: "Ramadan",
-    month: "Ramadan (9th month)",
+    slug: "ramadan",
     description:
       "The holy month of fasting. The whole community comes alive at iftar. Every night feels like a reunion.",
   },
   {
     name: "Eid al-Fitr",
-    month: "Shawwal 1",
+    slug: "eid-al-fitr",
     description:
       "The feast after Ramadan. New clothes, prayer, family, food. Infinite food. You earned every bite.",
   },
   {
     name: "Eid al-Adha",
-    month: "Dhul Hijjah 10",
+    slug: "eid-al-adha",
     description:
       "The feast of sacrifice, honoring Ibrahim's devotion. Marks the end of Hajj. Second biggest Eid of the year.",
   },
   {
+    name: "Laylat al-Qadr",
+    slug: "laylat-al-qadr",
+    description:
+      "The Night of Power. Better than a thousand months. The night the Quran was first revealed. You want to be awake for this one.",
+  },
+  {
+    name: "Mawlid al-Nabi",
+    slug: "mawlid-al-nabi",
+    description:
+      "The birthday of the Prophet Muhammad (peace be upon him). Celebrated with gatherings, nasheed, and gratitude.",
+  },
+  {
     name: "Islamic New Year",
-    month: "Muharram 1",
+    slug: "islamic-new-year",
     description:
       "The start of the Hijri calendar. Quiet, reflective. The Muslim New Year has a different energy than Times Square.",
   },
   {
     name: "Ashura",
-    month: "Muharram 10",
+    slug: "ashura",
     description:
       "A day of fasting and reflection. Observed differently by Sunni and Shia Muslims, but honored across the board.",
   },
   {
-    name: "Mawlid al-Nabi",
-    month: "Rabi' al-Awwal 12",
-    description:
-      "The birthday of the Prophet Muhammad (peace be upon him). Celebrated with gatherings, nasheed, and gratitude.",
-  },
-  {
-    name: "Laylat al-Qadr",
-    month: "Ramadan 27 (approx.)",
-    description:
-      "The Night of Power. Better than a thousand months. The night the Quran was first revealed. You want to be awake for this one.",
-  },
-  {
     name: "Hajj Season",
-    month: "Dhul Hijjah 8-13",
+    slug: "hajj",
     description:
       "The pilgrimage to Mecca. One of the five pillars of Islam. Two million people. One direction. Unforgettable.",
   },
@@ -914,7 +914,7 @@ export default function HomePage() {
                 marginBottom: "12px",
               }}
             >
-              Mark Your Calendar
+              The Islamic Calendar
             </p>
             <h2
               style={{
@@ -934,7 +934,7 @@ export default function HomePage() {
                 fontSize: "17px",
               }}
             >
-              The Islamic calendar is lunar. Dates shift each year. The community does not.
+              The Islamic calendar is lunar. Dates shift each year. The spirit of each occasion does not.
             </p>
           </div>
 
@@ -942,64 +942,88 @@ export default function HomePage() {
             className="grid-holidays"
             style={{
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))",
+              gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
               gap: "20px",
             }}
           >
             {holidays.map((holiday) => (
-              <div
-                key={holiday.name}
+              <a
+                key={holiday.slug}
+                href={`/holidays/${holiday.slug}`}
                 style={{
                   backgroundColor: "#060C06",
                   border: "1px solid #2D7D32",
                   borderRadius: "8px",
                   padding: "24px",
-                  display: "flex",
-                  gap: "16px",
+                  textDecoration: "none",
+                  display: "block",
                 }}
               >
-                <div
+                <h3
                   style={{
-                    backgroundColor: "#2D7D32",
-                    borderRadius: "6px",
-                    padding: "8px 12px",
-                    fontSize: "12px",
-                    color: "#ffffff",
+                    fontFamily: "var(--font-heading), serif",
+                    color: "#C9A84C",
+                    fontSize: "18px",
                     fontWeight: "bold",
-                    whiteSpace: "nowrap",
-                    alignSelf: "flex-start",
-                    minWidth: "80px",
-                    textAlign: "center",
-                    lineHeight: 1.4,
+                    marginBottom: "8px",
                   }}
                 >
-                  {holiday.month}
-                </div>
-                <div>
-                  <h3
-                    style={{
-                      fontFamily: "var(--font-heading), serif",
-                      color: "#C9A84C",
-                      fontSize: "17px",
-                      fontWeight: "bold",
-                      marginBottom: "6px",
-                    }}
+                  {holiday.name}
+                </h3>
+                <p
+                  style={{
+                    color: "#FAFAF8",
+                    fontSize: "14px",
+                    lineHeight: 1.65,
+                    opacity: 0.85,
+                    marginBottom: "14px",
+                  }}
+                >
+                  {holiday.description}
+                </p>
+                <span
+                  style={{
+                    color: "#2D7D32",
+                    fontSize: "13px",
+                    fontWeight: "bold",
+                    display: "flex",
+                    alignItems: "center",
+                    gap: "4px",
+                  }}
+                >
+                  Learn more
+                  <svg
+                    width="12"
+                    height="12"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    aria-hidden="true"
                   >
-                    {holiday.name}
-                  </h3>
-                  <p
-                    style={{
-                      color: "#FAFAF8",
-                      fontSize: "14px",
-                      lineHeight: 1.6,
-                      opacity: 0.85,
-                    }}
-                  >
-                    {holiday.description}
-                  </p>
-                </div>
-              </div>
+                    <line x1="5" y1="12" x2="19" y2="12" />
+                    <polyline points="12 5 19 12 12 19" />
+                  </svg>
+                </span>
+              </a>
             ))}
+          </div>
+
+          <div style={{ textAlign: "center", marginTop: "40px" }}>
+            <a
+              href="/holidays"
+              style={{
+                color: "#C9A84C",
+                fontSize: "16px",
+                textDecoration: "none",
+                borderBottom: "1px solid #C9A84C",
+                paddingBottom: "2px",
+              }}
+            >
+              View all Islamic holidays
+            </a>
           </div>
         </div>
       </section>
