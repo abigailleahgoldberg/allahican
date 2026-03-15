@@ -6,7 +6,7 @@ export async function GET() {
     if (!stripeKey) return NextResponse.json({ error: 'No Stripe key' }, { status: 500 });
 
     const Stripe = (await import('stripe')).default;
-    const stripe = new Stripe(stripeKey, { apiVersion: '2024-12-18.acacia' });
+    const stripe = new Stripe(stripeKey, { apiVersion: '2026-02-25.clover' });
 
     // Check if coupon already exists
     try {
@@ -24,7 +24,7 @@ export async function GET() {
     const existingPromos = await stripe.promotionCodes.list({ code: 'UMMAH10', limit: 1 });
     if (existingPromos.data.length === 0) {
       await stripe.promotionCodes.create({
-        coupon: 'allahican-10-off',
+        promotion: { type: 'coupon', coupon: 'allahican-10-off' },
         code: 'UMMAH10',
         active: true,
       });

@@ -9,7 +9,7 @@ function getStripe() {
   // Dynamic import to avoid build-time errors
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   const Stripe = require("stripe");
-  return new Stripe(key, { apiVersion: "2024-12-18.acacia" });
+  return new Stripe(key, { apiVersion: "2026-02-25.clover" });
 }
 
 interface CartItem {
