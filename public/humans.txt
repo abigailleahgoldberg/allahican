@@ -1,7 +1,7 @@
 /* TEAM */
 Brand: AllahiCan
 Site: https://allahican.com
-Built by: The Wu-Tang AI Clan
+Built by: The Voice of Cash Team
 Network: The Voice of Cash
 
 /* THANKS */
