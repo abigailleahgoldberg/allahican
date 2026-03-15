@@ -292,6 +292,10 @@ export default function CartPage() {
                 {loading ? "Processing..." : "Proceed to Checkout"}
               </button>
 
+              <p style={{ fontSize: "13px", color: "#C9A84C", marginTop: "12px", textAlign: "center", lineHeight: 1.5 }}>
+                Have a coupon code? You can enter it on the checkout page.
+              </p>
+
               <button
                 onClick={clearCart}
                 style={{
