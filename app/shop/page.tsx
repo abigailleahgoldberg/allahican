@@ -98,7 +98,10 @@ export default function ShopPage() {
                   position: "relative",
                 }}
               >
-                <span style={{ fontSize: "80px" }}>{product.emoji}</span>
+                <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="#C9A84C" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <circle cx="12" cy="12" r="10"/>
+                  <path d="M12 8v4m0 4h.01"/>
+                </svg>
                 <span
                   style={{
                     position: "absolute",
