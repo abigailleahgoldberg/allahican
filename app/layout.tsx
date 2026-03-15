@@ -101,13 +101,12 @@ export default function RootLayout({
                 </div>
 
                 <div>
-                  <div style={footerHeadingStyle}>The Network</div>
-                  <a href="https://jewsa.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">JewSA</a>
-                  <a href="https://hindusa-app.vercel.app" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">HindUSA</a>
-                  <a href="https://webearish.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">WeBearish</a>
+                  <div style={footerHeadingStyle}>Faith Network</div>
                   <a href="https://u-god.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">U-God Sacred Texts</a>
+                  <a href="https://jewsa.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">JewSA</a>
+                  <a href="https://redwhitejesus.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">RedWhiteJesus</a>
+                  <a href="https://hindusa.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">HindUSA</a>
                   <a href="https://thevoiceofcash.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">The Voice of Cash</a>
-                  <a href="https://aiskillsagents.com" style={footerLinkStyle} target="_blank" rel="noopener noreferrer">AI Skills Agents</a>
                 </div>
 
                 <div>

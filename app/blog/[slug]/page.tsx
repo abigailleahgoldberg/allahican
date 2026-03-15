@@ -144,8 +144,19 @@ export default async function BlogPostPage({ params }: Props) {
               textDecoration: "none",
             }}
           >
-            Shop AllahiCan
+            Shop AllahICan
           </a>
+        </div>
+
+        {/* Faith Network Section */}
+        <div style={{ marginTop: 48, background: "rgba(201,168,76,0.06)", border: "1px solid rgba(201,168,76,0.2)", borderRadius: 10, padding: "24px" }}>
+          <div style={{ fontSize: "0.62rem", letterSpacing: "0.14em", textTransform: "uppercase", color: "#C9A84C", marginBottom: 14, fontWeight: 700 }}>Faith Network</div>
+          <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+            <a href="https://u-god.com" style={{ color: "#C9A84C", textDecoration: "none", fontSize: "0.9rem" }}><strong>U-God.com</strong> — Explore all traditions and sacred texts across 25+ world religions</a>
+            <a href="https://jewsa.com" style={{ color: "#C9A84C", textDecoration: "none", fontSize: "0.9rem" }}><strong>JewSA.com</strong> — See what Judaism teaches about faith, culture, and identity</a>
+            <a href="https://redwhitejesus.com" style={{ color: "#C9A84C", textDecoration: "none", fontSize: "0.9rem" }}><strong>RedWhiteJesus.com</strong> — Christian faith and American culture</a>
+            <a href="https://hindusa.com" style={{ color: "#C9A84C", textDecoration: "none", fontSize: "0.9rem" }}><strong>HindUSA.com</strong> — Hindu American traditions, culture, and community</a>
+          </div>
         </div>
       </div>
     </div>
