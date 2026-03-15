@@ -1044,6 +1044,180 @@ Eid Mubarak. Shop well. Give well. Eat well.
 
 **Related reading:** [Eid al-Fitr vs Eid al-Adha: What Is the Difference?](/blog/eid-al-fitr-vs-eid-al-adha) | [Ramadan in America: What It's Really Like](/blog/ramadan-in-america-what-its-really-like)`,
   },
+  {
+    slug: "muslim-american-cookbook-10-dishes",
+    title: "The Muslim American Cookbook: 10 Dishes That Tell Our Story",
+    description: "Food carries history, memory, and identity. These ten dishes from the Muslim American kitchen tell the story of a community that came from everywhere and made something new.",
+    category: "Culture",
+    date: "2026-03-15",
+    content: `Food is how communities tell their stories. The spice blends, the slow-cooked proteins, the bread that takes two days to make right — these are not just recipes. They are encoded history, passed from grandmothers to grandchildren across generations and across oceans. For Muslim Americans, whose community spans every continent and dozens of cultures, the table is where the complexity of that heritage becomes tangible.
+
+The Muslim American kitchen does not have a single canon. It has multitudes. But certain dishes have traveled widely across Muslim American communities, been adapted to American ingredients, and become part of a shared culinary vocabulary. These are ten of the most important.
+
+**Lamb Biryani**
+
+Biryani is the dish that South Asian Muslim families make for every occasion that matters. Weddings, Eid celebrations, the arrival of guests who deserve honoring — the biryani pot comes out. The dish involves long-grain basmati rice layered with marinated lamb or chicken, fried onions, saffron, and spices including cardamom, cinnamon, cloves, and whole peppercorns. The cooking technique — sealing the pot and cooking over low heat so everything steams together — is called dum and produces rice grains that are separate and fragrant and infused with the flavors of the meat and spices beneath them.
+
+The American version of biryani has adapted to what is available. Halal lamb from specialty butchers. Basmati rice from Indian grocery stores that have now spread to every major city. The spices, once hard to find, are now in every Whole Foods. What has not adapted is the technique or the expectation: biryani takes time, and anyone who tells you they made it in forty minutes is telling you something else.
+
+**Shawarma**
+
+Shawarma came to America through Arab immigrant communities and became one of the most successful street foods in the country. The original is rotisserie meat — lamb, chicken, or beef — seasoned with cumin, turmeric, coriander, and paprika, shaved thin and served in flatbread with garlic sauce, tahini, pickles, and tomatoes.
+
+The American halal cart version, which became ubiquitous in New York City in the 1990s, is the most visible adaptation: chicken and lamb over rice, with the white sauce and hot sauce that became their own kind of icon. Hundreds of thousands of New Yorkers have eaten this meal. Many of them have no idea it comes from a tradition that spans the Levant, Turkey, and beyond.
+
+**Jollof Rice**
+
+West African Muslims brought jollof rice to American shores, and the dish has found its way into the broader American food consciousness through Nigerian and Ghanaian communities in particular. Jollof is a one-pot rice dish cooked in a tomato, pepper, and onion base with spices that vary by country and by cook. The crust that forms at the bottom of the pot, called party jollof, is considered the best part and is reserved for honored guests.
+
+The debate over which country makes the best jollof — Nigeria, Ghana, Senegal, Liberia — is ongoing, deeply felt, and conducted across social media with the seriousness of an international incident. This is, in itself, a form of cultural vitality.
+
+**Haleem**
+
+Haleem is a slow-cooked stew of wheat, barley, lentils, and meat — usually beef or lamb — that requires hours on the stove and produces something unlike anything else. It is broken down almost entirely, thickened to a porridge-like consistency, and served with fried onions, fresh ginger, lemon, and cilantro. It is the kind of dish that exists to be made in large quantities for large gatherings, and it is particularly associated with the month of Muharram in South Asian Muslim communities.
+
+The American version is often made by families who started with a basic recipe and adjusted it over decades to local ingredients and local tastes. The result is a dish that is both ancient in its origins and thoroughly shaped by the American experience of its makers.
+
+**Kabsa**
+
+Kabsa is the national dish of Saudi Arabia and the dish that Arab Gulf families bring to every celebration. Long-grain rice cooked with tomatoes, onions, and a spice blend that typically includes dried limes, black pepper, cinnamon, and cardamom, topped with a whole roasted chicken or leg of lamb. The dish is abundant in a way that reflects Gulf hospitality: you are not offering a portion, you are offering a feast.
+
+Arab Gulf communities in the United States have found ways to maintain the kabsa tradition in American kitchens, and the dish has begun appearing in pan-Arab restaurants across the country, introducing it to people from other Muslim backgrounds and from outside the tradition entirely.
+
+**Moroccan Tagine**
+
+The tagine — both the conical clay pot and the dish cooked in it — represents North African Muslim food culture in the American consciousness. A slow braise of lamb or chicken with olives, preserved lemons, spices including ras el hanout, and sometimes dried fruit produces a dish that is aromatic, tender, and complex in ways that reward attention.
+
+Moroccan restaurants have been part of the American dining landscape for decades, and the tagine they serve has become a point of introduction for people encountering North African cooking for the first time. The American versions have adapted to available ingredients while maintaining the essential character of the dish.
+
+**Manti**
+
+Manti are tiny dumplings filled with spiced lamb and onion, served with yogurt and paprika butter, that come from Turkish and Central Asian Muslim tradition. They are time-consuming to make — a skilled cook can fold them small enough that a dozen fit in a single spoon — and they represent the kind of labor-intensive food that gets made for special occasions and carries the memories of every occasion it has been made for.
+
+Central Asian and Turkish Muslim communities in American cities have maintained the manti tradition, and Turkish restaurants have introduced the dish to broader audiences. The dumpling, in its many forms, is one of the most universal foods in the human diet, and the Muslim American version of it carries a specific geography and history.
+
+**Harira**
+
+Harira is the soup that breaks the Ramadan fast in Moroccan tradition. A thick, tomato-based broth with chickpeas, lentils, lamb, vermicelli, and fresh herbs, it is the first substantial food after a day of fasting and carries all the emotional weight of that moment. The smell of harira cooking in a kitchen in the hour before Maghrib is, for Moroccan Muslim families in America, one of the most powerful sensory cues of the entire year.
+
+Recipes vary by region and by family, and every Moroccan cook has an opinion about the correct amount of cinnamon and the correct thickness. This is appropriate. The dish is personal in the way that iftar itself is personal.
+
+**Keema**
+
+Keema is ground meat — usually lamb or beef — cooked with onions, tomatoes, ginger, garlic, and spices until dry and fragrant. It appears across the Muslim world in different forms: as a filling for samosas, as a topping for naan, as a main dish served with rice, as a stuffing for flatbreads. It is one of the most adaptable preparations in the Muslim kitchen and one of the most common.
+
+In Pakistani and Indian Muslim American households, keema is often the weeknight meal that does not require an occasion. It is fast by the standards of the cuisine, deeply flavorful, and satisfying. It is also one of the first things second-generation cooks learn to make, because it requires learning the spice combinations that define the flavor profile of their parents' kitchen.
+
+**Knafeh**
+
+Knafeh is the dessert that appears at every significant gathering in Levantine Muslim culture: an engagement party, a graduation, a holiday, a welcome for important guests. The base is shredded wheat or semolina soaked in butter and layered with white cheese, baked until golden, and soaked in sugar syrup flavored with orange blossom water. It is served warm and eaten immediately.
+
+Palestinian and Lebanese bakeries in American cities have made knafeh available outside of home kitchens, and it has found an audience well beyond the communities that brought it. The combination of warm pastry, melted cheese, and orange blossom syrup is persuasive across cultural backgrounds.
+
+The Muslim American table is one of the most diverse in the country. These ten dishes are an introduction.
+
+**Related reading:** [What Does Halal Actually Mean?](/blog/what-does-halal-mean) | [The Muslim American's Guide to Halal Food Across the US](/blog/halal-food-guide-united-states)`,
+  },
+  {
+    slug: "building-prayer-space-home-muslim-families",
+    title: "Building a Prayer Space at Home: A Practical Guide for Muslim Families",
+    description: "The five daily prayers are the heartbeat of Muslim life. Here is how to create a dedicated prayer space in your home that works for your family and your space.",
+    category: "Religion",
+    date: "2026-02-20",
+    content: `The five daily prayers — Fajr before dawn, Dhuhr at midday, Asr in the afternoon, Maghrib at sunset, and Isha at night — structure every Muslim day around moments of turning toward God. Wherever you are, the prayer can happen. In an office, in a park, in a car pulled over to the side of the road. But there is something different about praying in a dedicated space in your own home, a place that signals: this is where we stop, face the qibla, and pray.
+
+Creating a prayer space is not a large undertaking. It does not require a separate room or significant expense. It requires intention, a few practical decisions, and attention to the things that actually support your prayer rather than distract from it.
+
+**Choosing the Space**
+
+The first decision is where. In a small apartment or a house with many residents, this requires some creativity. The minimum requirement is a space large enough for a prayer rug — approximately two by four feet — that can be oriented toward Mecca. Beyond that, the considerations are noise, privacy, and cleanliness.
+
+Noise is worth taking seriously. The time before prayer is a time of preparation, and a space that is quiet and separate from the household's activity supports the mental transition into prayer. This does not have to mean a dedicated room. A corner of a bedroom, a section of a living room partitioned by a bookshelf, a space under a window — these can all work if the intention is clear and the household understands that this space has a specific purpose.
+
+Cleanliness is a requirement of the prayer itself: the space where you pray must be clean, and you must be in a state of ritual purity (wudu) before praying. A prayer space that is consistently clean — free of clutter, regularly maintained — supports the practice rather than creating extra friction before each prayer.
+
+Privacy matters differently to different people. Some families pray together in a shared space. Others prefer to pray individually in a quieter corner. Some households have young children who will naturally be curious about and involved in the prayer space. All of these scenarios are fine. The prayer space should work for the people who will use it.
+
+**The Prayer Rug**
+
+The prayer rug is the central object in a home prayer space. Its function is to mark the clean surface on which you pray and to orient the prayer space visually. It should point toward Mecca, which in most of the United States means orienting roughly northeast to east.
+
+There are qibla compass apps for smartphones that make finding the direction straightforward, and many prayer rugs are sold with a compass included. The Kaaba locator at IslamicFinder.org will give you the exact angle for your address.
+
+The prayer rug itself can be simple or elaborate — the function is the same regardless of the aesthetic. What matters more than the design is that it is reserved for prayer, that it stays clean, and that it is in a condition that treats the act of prayer with respect.
+
+**What Else to Include**
+
+A dedicated space can include whatever supports your practice and does not distract from it. A Quran stand and a copy of the Quran, accessible for recitation after prayer. A tasbih (prayer beads) for dhikr. A small shelf or table for these items. A clock or digital display showing prayer times is practical if the space is in a room where you spend significant time.
+
+Some families include Islamic art or calligraphy in the prayer space. Quranic verses rendered in calligraphy have been objects of contemplation in Muslim homes for centuries, and their presence in a prayer space connects the daily practice to a much longer tradition. The ayat al-kursi, the throne verse from Surah Al-Baqarah, is among the most commonly displayed.
+
+What the prayer space should not include is anything that functions as distraction: a television in direct line of sight, a desk covered in work, a phone notifications enabled. The purpose of the space is to support focus and presence, and the design should serve that purpose.
+
+**Making It Work With Children**
+
+Young children will want to participate in the prayer space, and this is something to welcome rather than manage. The five daily prayers are learned by participation long before they are understood theologically. Children who grow up in households where prayer is a regular, visible practice absorb the rhythms and the postures and the sounds before they have the language to articulate what they are learning.
+
+A small prayer rug sized for a child, placed beside the adult rug, communicates inclusion. Letting children stand with you during prayer, even before they are old enough to perform the complete prayer, brings them into the practice rather than separating them from it. The prayer space that works for children does not need to be architecturally special — it needs to be consistently used and consistently welcomed.
+
+**Maintaining the Practice**
+
+A prayer space is only useful if it is used. The challenge is not creating the space but sustaining the habit. Families who maintain consistent daily prayer generally find that a dedicated space helps — the visual cue of the prayer rug in its place functions as a prompt, and the act of going to a specific location signals a transition that supports the prayer itself.
+
+The daily prayers are not meant to be elaborate. Each one takes between five and fifteen minutes. The preparation — wudu, changing into prayer clothes if that is your practice, facing the qibla — adds a few minutes more. The total is a small fraction of the day, distributed across its natural transitions.
+
+A prayer space that is clean, oriented correctly, and consistently used becomes the organizing geography of the Muslim household. It is where the day begins and ends. It is where significant events are marked. It is where the household turns, five times a day, away from everything else and toward something larger.
+
+**Related reading:** [The Five Pillars of Islam, Explained Simply](/blog/five-pillars-of-islam-explained) | [Ramadan in America: What It's Really Like](/blog/ramadan-in-america-what-its-really-like)`,
+  },
+  {
+    slug: "muslim-americans-changing-tech-industry",
+    title: "How Muslim Americans Are Changing the Tech Industry",
+    description: "From the engineers who built the internet's infrastructure to the founders running billion-dollar companies, Muslim Americans are reshaping the technology sector. Here is the full story.",
+    category: "Community",
+    date: "2026-01-15",
+    content: `The technology industry is often discussed as if it were culturally neutral — a meritocracy where code is the only credential that matters. The reality is more interesting. The sector reflects the communities that built it, and among those communities, Muslim Americans have played a role that is both substantial and underrecognized.
+
+The story runs from the early days of internet infrastructure through the current generation of founders and executives. Understanding it requires understanding both who Muslim Americans are in the technology context and what conditions have shaped their contributions.
+
+**The Educational Foundation**
+
+Muslim Americans are among the most highly educated groups in the United States. Surveys consistently show that Muslim Americans hold advanced degrees at rates that exceed most other demographic groups, with particular concentrations in engineering, medicine, and science. This educational profile reflects both the immigration patterns of the post-1965 era — which brought many professionals from Muslim-majority countries — and the cultural emphasis on education that is embedded in Islamic tradition itself.
+
+The hadith that commands the seeking of knowledge even unto China is not merely aspirational. It has produced, across generations, communities that treat education as a religious obligation and professional achievement as a form of fulfilling that obligation. The Muslim American engineer at a technology company is, in their own understanding, often doing something continuous with a long tradition of Islamic scholarship and scientific inquiry.
+
+**The Infrastructure Builders**
+
+The work of Fazlur Rahman Khan, who designed the Sears Tower and the John Hancock Center in Chicago using structural innovations that transformed skyscraper construction, is perhaps the most famous example of a Muslim American engineer reshaping the physical infrastructure of the country. The same pattern of substantial technical contribution, often invisible to the broader public, runs through the technology sector.
+
+In the 1990s and 2000s, as the internet was being built, Muslim American engineers were present at every layer of the stack. At networking companies, at semiconductor firms, at the research labs where the protocols that govern digital communication were developed. Their names are not household words. Their work is the ground on which the household technology of the twenty-first century rests.
+
+**The Founders**
+
+The current generation of Muslim American technology founders is more visible, in part because the founder economy itself has become more visible. Several have built companies at significant scale.
+
+Hamdi Ulukaya, whose background is Turkish and Muslim, built Chobani from a shuttered yogurt plant into one of the largest food companies in the country. His approach to business — paying living wages, hiring refugees, building community in a small upstate New York town — has influenced how a generation of founders thinks about what a company can be for.
+
+Salman Khan built Khan Academy into one of the most important educational technology organizations in the world, offering free, high-quality instruction across every subject to anyone with an internet connection. The organization has been used by hundreds of millions of learners worldwide. Khan has spoken about the Islamic concept of sadaqa — charitable giving — as a framework for the organization's mission.
+
+Arlan Hamilton founded Backstage Capital specifically to address the chronic underfunding of founders who are women, people of color, or LGBTQ+. Her work has shifted capital toward founders who had been systematically excluded from the venture ecosystem.
+
+**The Representation Question**
+
+The presence of Muslim Americans in technology is substantial but not always visible, in part because the technology industry has not historically created institutional frameworks for Muslim American professional community the way it has for other groups. Muslim employee resource groups exist at major technology companies, but their profile is lower than comparable organizations for other communities.
+
+This is changing. Organizations like the Ummah Fund, which focuses on Muslim American entrepreneurship, and various Muslim technology professional networks are building infrastructure for community and capital that did not exist a decade ago. The founders who came up without that infrastructure are now building it for the generation behind them.
+
+**The Work Itself**
+
+What Muslim Americans are building in technology is not categorically distinct from what other engineers and founders are building. They are working on artificial intelligence, biotechnology, climate technology, financial infrastructure, and every other domain that defines the current technology moment.
+
+What distinguishes their presence, to the extent that it does, is the particular set of values and experiences they bring to the work. The emphasis on serving community. The relationship to religious obligation. The experience of navigating identity in a sector that has been slow to build inclusive culture. These are not constraints on the work. They are inputs to it, and the companies and products that emerge from them reflect something distinctive.
+
+The Muslim American presence in technology is not a recent development. It is the continuation of a long pattern of contribution that has always been there, building things that last, often without the recognition that work of that quality deserves.
+
+**Related reading:** [Famous Muslim Americans Who Shaped This Country](/blog/famous-muslim-americans) | [Muslim Americans Building Businesses: The Entrepreneurial Community](/blog/muslim-american-entrepreneurs)`,
+  },
 ];
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
