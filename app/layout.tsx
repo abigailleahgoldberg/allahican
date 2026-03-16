@@ -27,6 +27,12 @@ export const metadata: Metadata = {
     description: "All I can be is American. Muslim. All of it.",
     url: "https://allahican.com",
     siteName: "AllahiCan",
+    images: [{ url: "https://allahican.com/favicon.ico", width: 64, height: 64, alt: "AllahiCan" }],
+  },
+  twitter: {
+    card: "summary",
+    title: "AllahiCan -- Muslim-American Pride and Culture",
+    description: "All I can be is American. Muslim. All of it.",
   },
   alternates: {
     canonical: 'https://allahican.com',
