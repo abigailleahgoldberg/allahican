@@ -21,11 +21,15 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "AllahiCan -- Muslim-American Pride and Culture",
   description: "All I can be is American. Muslim. All of it. Muslim-American pride gear, culture, and community.",
+  metadataBase: new URL("https://allahican.com"),
   openGraph: {
     title: "AllahiCan -- Muslim-American Pride and Culture",
     description: "All I can be is American. Muslim. All of it.",
     url: "https://allahican.com",
     siteName: "AllahiCan",
+  },
+  alternates: {
+    canonical: 'https://allahican.com',
   },
 };
 
@@ -67,6 +71,21 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${instrumentSerif.variable} ${spaceGrotesk.variable}`}>
+      <head>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "AllahiCan",
+          "url": "https://allahican.com",
+          "description": "Muslim-American pride gear, culture, and community. Where Faith Meets Freedom."
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "AllahiCan",
+          "url": "https://allahican.com"
+        }) }} />
+      </head>
       <body className={`${instrumentSerif.variable} ${spaceGrotesk.variable}`}>
         <CartProvider>
           <Header />
@@ -135,6 +154,12 @@ export default function RootLayout({
                 <p style={{ color: "#8a8a8a", fontSize: "13px", fontFamily: "var(--font-body), sans-serif" }}>
                   Made with love and alhamdulillah energy.
                 </p>
+                <div style={{ width: "100%", display: "flex", gap: "20px", flexWrap: "wrap", alignItems: "center", paddingTop: "12px" }}>
+                  <span style={{ fontSize: "11px", fontWeight: "bold", color: "#C9A84C", letterSpacing: "0.1em", textTransform: "uppercase" }}>Resources</span>
+                  <a href="https://quran.com" target="_blank" rel="noopener noreferrer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Quran.com — Quran & Tafsir →</a>
+                  <a href="https://sunnah.com" target="_blank" rel="noopener noreferrer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Sunnah.com — Hadith Collections →</a>
+                  <a href="https://www.isna.net" target="_blank" rel="noopener noreferrer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>ISNA — Islamic Society of North America →</a>
+                </div>
               </div>
             </div>
           </footer>
