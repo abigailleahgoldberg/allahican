@@ -2,6 +2,104 @@
 
 import { useState, useEffect } from "react";
 
+async function shareVerseAsImage(verse: string, reference: string, theme: string) {
+  const canvas = document.createElement("canvas");
+  canvas.width = 1080;
+  canvas.height = 1080;
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return;
+
+  const accentColor = "#2D7D32";
+  const siteUrl = "allahican.com";
+
+  // Background
+  ctx.fillStyle = "#0C2E0C";
+  ctx.fillRect(0, 0, 1080, 1080);
+
+  // Top accent bar
+  ctx.fillStyle = accentColor;
+  ctx.fillRect(0, 0, 1080, 8);
+
+  // Theme badge
+  ctx.fillStyle = "#C9A84C";
+  ctx.font = "700 22px sans-serif";
+  ctx.textAlign = "center";
+  ctx.fillText(theme.toUpperCase(), 540, 78);
+
+  // Verse text — word wrap with vertical centering
+  const maxWidth = 880;
+  const lineHeight = 62;
+  ctx.font = "italic 42px Georgia, serif";
+  const fullText = "\u201C" + verse + "\u201D";
+  const allWords = fullText.split(" ");
+  const lines: string[] = [];
+  let line = "";
+  for (const word of allWords) {
+    const testLine = line + word + " ";
+    if (ctx.measureText(testLine).width > maxWidth && line !== "") {
+      lines.push(line.trim());
+      line = word + " ";
+    } else {
+      line = testLine;
+    }
+  }
+  if (line.trim()) lines.push(line.trim());
+
+  const totalTextHeight = lines.length * lineHeight;
+  const zoneTop = 120;
+  const zoneBottom = 890;
+  const startY = Math.round((zoneTop + zoneBottom) / 2 - totalTextHeight / 2 + lineHeight * 0.75);
+
+  ctx.fillStyle = "#FAFAF8";
+  ctx.textAlign = "center";
+  let y = startY;
+  for (const l of lines) {
+    ctx.fillText(l, 540, y);
+    y += lineHeight;
+  }
+
+  // Reference
+  ctx.fillStyle = "#C9A84C";
+  ctx.font = "700 28px sans-serif";
+  ctx.fillText(reference, 540, y + 64);
+
+  // Bottom divider
+  ctx.fillStyle = "rgba(45,125,50,0.4)";
+  ctx.fillRect(390, 960, 300, 1);
+
+  // Site branding
+  ctx.fillStyle = "rgba(250,250,248,0.4)";
+  ctx.font = "400 20px sans-serif";
+  ctx.fillText(siteUrl, 540, 1000);
+
+  // Bottom accent bar
+  ctx.fillStyle = accentColor;
+  ctx.fillRect(0, 1072, 1080, 8);
+
+  canvas.toBlob(async (blob) => {
+    if (!blob) return;
+    const file = new File([blob], "daily-ayah.png", { type: "image/png" });
+    if (navigator.share && navigator.canShare({ files: [file] })) {
+      try {
+        await navigator.share({ files: [file], title: reference, text: verse });
+      } catch {
+        downloadBlob(blob, "daily-ayah.png");
+      }
+    } else {
+      downloadBlob(blob, "daily-ayah.png");
+    }
+  }, "image/png");
+}
+
+function downloadBlob(blob: Blob, filename: string) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
 interface DailyAyah {
   text: string;
   reference: string;
@@ -13,6 +111,7 @@ interface DailyAyah {
 export default function DailyAyahPage() {
   const [ayah, setAyah] = useState<DailyAyah | null>(null);
   const [copied, setCopied] = useState(false);
+  const [sharing, setSharing] = useState(false);
   const [error, setError] = useState(false);
 
   useEffect(() => {
@@ -29,6 +128,13 @@ export default function DailyAyahPage() {
       setCopied(true);
       setTimeout(() => setCopied(false), 2500);
     });
+  };
+
+  const handleShareImage = async () => {
+    if (!ayah || sharing) return;
+    setSharing(true);
+    await shareVerseAsImage(ayah.text, ayah.reference, ayah.theme);
+    setSharing(false);
   };
 
   return (
@@ -262,8 +368,8 @@ export default function DailyAyahPage() {
               </div>
             </div>
 
-            {/* Copy button */}
-            <div style={{ display: "flex", justifyContent: "center" }}>
+            {/* Action buttons */}
+            <div style={{ display: "flex", justifyContent: "center", gap: "12px", flexWrap: "wrap" }}>
               <button
                 onClick={handleCopy}
                 style={{
@@ -285,40 +391,45 @@ export default function DailyAyahPage() {
               >
                 {copied ? (
                   <>
-                    <svg
-                      width="16"
-                      height="16"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      aria-hidden="true"
-                    >
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                       <polyline points="20 6 9 17 4 12" />
                     </svg>
                     Copied
                   </>
                 ) : (
                   <>
-                    <svg
-                      width="16"
-                      height="16"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      aria-hidden="true"
-                    >
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                       <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
                       <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
                     </svg>
                     Copy to clipboard
                   </>
                 )}
+              </button>
+              <button
+                onClick={handleShareImage}
+                disabled={sharing}
+                style={{
+                  backgroundColor: "transparent",
+                  color: "#C9A84C",
+                  border: "2px solid #C9A84C",
+                  padding: "12px 28px",
+                  borderRadius: "4px",
+                  fontSize: "14px",
+                  fontWeight: "bold",
+                  cursor: sharing ? "wait" : "pointer",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "8px",
+                  fontFamily: "var(--font-body), sans-serif",
+                  transition: "all 0.2s",
+                  opacity: sharing ? 0.6 : 1,
+                }}
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/>
+                </svg>
+                {sharing ? "Generating..." : "Share as Image"}
               </button>
             </div>
           </div>
