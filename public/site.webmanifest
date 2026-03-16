@@ -1,0 +1,10 @@
+{
+  "name": "Allah I Can",
+  "short_name": "AIC",
+  "description": "Islamic perspective on culture, business, and modern life.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#065F46",
+  "theme_color": "#065F46",
+  "icons": [{ "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }]
+}
