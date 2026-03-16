@@ -161,6 +161,15 @@ export default function RootLayout({
                   <a href="https://sunnah.com" target="_blank" rel="noopener noreferrer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Sunnah.com — Hadith Collections →</a>
                   <a href="https://www.isna.net" target="_blank" rel="noopener noreferrer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>ISNA — Islamic Society of North America →</a>
                 </div>
+                <div style={{ width: "100%", display: "flex", gap: "20px", flexWrap: "wrap", alignItems: "center", paddingTop: "12px", borderTop: "1px solid #2D7D32", marginTop: "12px" }}>
+                  <span style={{ fontSize: "11px", fontWeight: "bold", color: "#C9A84C", letterSpacing: "0.1em", textTransform: "uppercase" }}>Legal</span>
+                  <a href="/privacy" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Privacy Policy</a>
+                  <a href="/terms" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Terms of Service</a>
+                  <a href="/disclaimer" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Disclaimer</a>
+                  <a href="/returns" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Return Policy</a>
+                  <a href="/dmca" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>DMCA</a>
+                  <a href="/contact" style={{ color: "#8a8a8a", fontSize: "13px", textDecoration: "none", fontFamily: "var(--font-body), sans-serif" }}>Contact</a>
+                </div>
               </div>
             </div>
           </footer>
