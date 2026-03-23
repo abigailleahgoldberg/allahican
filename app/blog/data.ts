@@ -7,7 +7,46 @@ export interface BlogPost {
   content: string;
 }
 
-export const blogPosts: BlogPost[] = [
+export const blogPosts: BlogPost[
+  {
+    slug: "ramadan-ending-eid-al-fitr-2026",
+    title: "Eid al-Fitr 2026: What the Celebration Means and How Muslims Observe It",
+    description: "Ramadan ends and Eid al-Fitr begins. Here is what the celebration means, how it is observed around the world, and what makes it one of the most joyful days on the Islamic calendar.",
+    category: "Religion",
+    date: "2026-03-23",
+    content: `Eid al-Fitr marks the end of Ramadan and the beginning of something entirely different. After a month of fasting from dawn to sunset, of increased prayer, of reflection and discipline, Eid is the celebration that follows. It is a day of gratitude, of community, of joy that is earned through the effort that preceded it.
+
+The name means the Festival of Breaking the Fast. The fast it refers to is the entire month of Ramadan, not just the daily fast. You have carried something for thirty days and on Eid morning you put it down together. The collective quality of that release is part of what makes the day feel the way it feels.
+
+Eid begins with the confirmed sighting of the new crescent moon, which marks the start of the month of Shawwal. The specific date can vary by a day depending on location and the method used to confirm the moon sighting, which means that Muslims in different countries may celebrate Eid on different days. This is not a source of conflict. It is simply the nature of a calendar tied to lunar observation.
+
+The morning begins with Salat al-Eid, the Eid prayer. This is a special congregational prayer that takes place in the mosque or in an open field that can hold large numbers of people. Attending this prayer is strongly recommended and for many Muslims it is among the most meaningful gatherings of the year. The prayer is followed by a sermon and then the celebration spreads into the day.
+
+Zakat al-Fitr, a charitable contribution required before the Eid prayer, ensures that those who cannot afford a celebratory meal receive food. The obligation is on every Muslim who is able to give, and it must be fulfilled before the prayer. The point is that the joy of Eid should be shared. No one should spend the day of celebration without enough to eat.
+
+The day itself looks different in different parts of the world. In many Muslim-majority countries, Eid is a national holiday that lasts three days. Families visit each other, children receive gifts or money, the best food is prepared, new clothes are worn. The greeting Eid Mubarak, meaning Blessed Eid, is exchanged everywhere. In diaspora communities the celebration is compressed but no less genuine. Muslims in the United States, Europe, and other non-majority countries find ways to mark the day with family and community even without the structural support of a national holiday.
+
+Eid al-Fitr is the celebration that Ramadan makes possible. The joy of it is inseparable from the month that preceded it. That is the whole design.`
+  },
+  {
+    slug: "muslim-american-identity-navigating-two-cultures",
+    title: "Muslim American Identity: What It Means to Navigate Two Cultures at Once",
+    description: "Being Muslim and American is not a contradiction. It is a layered identity that millions of people navigate every day. Here is what that experience actually looks like.",
+    category: "Culture",
+    date: "2026-03-23",
+    content: `The question of what it means to be Muslim and American is one that millions of people answer in their own way every single day without making it a philosophical crisis. The theoretical tension between religious identity and national identity that gets debated in op-eds and think tanks is, in the lived experience of most Muslim Americans, simply the texture of ordinary life.
+
+Muslim Americans come from everywhere. South Asia, the Arab world, West Africa, Southeast Asia, Iran, Turkey, the Balkans, the Caribbean, and every other region of the world where Islam has deep roots. They also include converts, many of them African American, for whom Islam has been part of the fabric of American life since before the country was founded. There is no single Muslim American experience because there is no single Muslim American community. That diversity is the first thing to understand.
+
+What most Muslim Americans share is the experience of holding two identities that are each internally complex. Being American means something different depending on whether you are a third-generation immigrant from Pakistan, a Yemeni refugee who arrived last year, a Black Muslim whose family has been in the United States for generations, or a convert from a Southern Baptist background. Being Muslim means something different depending on whether you are Sunni or Shia, strictly observant or culturally identifying, part of an established mosque community or practicing privately.
+
+The navigation that gets described as a challenge is often simply the normal work of being a person with a particular history and set of commitments living in a society that was not designed specifically for you. Most Muslim Americans have figured out how to pray at work, how to explain fasting to colleagues who have never heard of Ramadan, how to find halal food in places where it is not easy to find. These are not existential struggles. They are logistics.
+
+Where the identity question gets more complicated is in moments when one dimension of who you are is made the subject of political debate. When Muslims are discussed as a category to be surveilled or restricted, the American half of the identity comes into direct tension with the Muslim half in a way that everyday life does not usually require. That tension is real and it matters.
+
+What is also real is that Muslim Americans have built institutions, elected representatives, produced artists and scientists and athletes, and contributed to every field of American life. The identity is not a problem to be solved. It is a richness that the country is still learning how to see.`
+  },
+] = [
   {
     slug: "what-is-ramadan-plain-english-guide",
     title: "What Is Ramadan? A Plain English Guide for Americans",
