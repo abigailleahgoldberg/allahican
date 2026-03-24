@@ -11,7 +11,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: 'american-islam-2026-identity-belonging',
     title: 'American Islam in 2026: Identity, Belonging, and Community',
-    excerpt: 'What it means to practice Islam as an American, navigate multiple identities, and build community.',
+    description: 'What it means to practice Islam as an American, navigate multiple identities, and build community.',
     content: `Islam in America is experiencing a particular moment in 2026 where questions about identity, belonging, and practice are more visible and more contested than in previous decades. The American Muslim community is not monolithic and the conversation about what it means to be Muslim in America is increasingly internal, generational, and nuanced.
 
 For immigrants who came as adults, Islam often operates as a cultural and religious anchor — a connection to home, to family, to a way of life they chose to carry forward even as they built new lives. For second and third generation Americans, Islam is lived alongside American identity in ways that do not require compartmentalization for many people, though some do compartmentalize deliberately.
@@ -29,7 +29,7 @@ What binds American Muslim identity is usually: faith, family, values of justice
   {
     slug: 'islamic-calendar-2026-holidays-observances',
     title: 'Islamic Calendar 2026: Holidays, Observances, and What Each One Means',
-    excerpt: 'A guide to the Islamic holidays and observances in 2026 and their spiritual significance.',
+    description: 'A guide to the Islamic holidays and observances in 2026 and their spiritual significance.',
     content: `The Islamic calendar is a lunar calendar, which means it shifts approximately eleven days earlier each year relative to the Gregorian calendar. This means Islamic holidays rotate through different seasons — Ramadan can fall in spring, summer, fall, or winter depending on the year. In 2026, Ramadan falls in the winter months, which creates a different experience than summer Ramadan.
 
 Ramadan 2026 runs from approximately February 28 to March 29. This is the month when Muslims fast from dawn to sunset, practice intensive prayer and Quran study, and emphasis the spiritual dimensions of Islam. The fast is from food and water but also from harmful speech, anger, and negative behaviors. The goal is to develop taqwa — God consciousness and self-discipline.
