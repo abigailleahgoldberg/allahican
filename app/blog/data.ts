@@ -9,6 +9,45 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[
   {
+    slug: 'american-islam-2026-identity-belonging',
+    title: 'American Islam in 2026: Identity, Belonging, and Community',
+    excerpt: 'What it means to practice Islam as an American, navigate multiple identities, and build community.',
+    content: `Islam in America is experiencing a particular moment in 2026 where questions about identity, belonging, and practice are more visible and more contested than in previous decades. The American Muslim community is not monolithic and the conversation about what it means to be Muslim in America is increasingly internal, generational, and nuanced.
+
+For immigrants who came as adults, Islam often operates as a cultural and religious anchor — a connection to home, to family, to a way of life they chose to carry forward even as they built new lives. For second and third generation Americans, Islam is lived alongside American identity in ways that do not require compartmentalization for many people, though some do compartmentalize deliberately.
+
+There is diversity within Islam in America that outside observers often miss. Sunni, Shia, Sufi traditions. Arab Muslims, South Asian Muslims, African American Muslims, converts. Different cultures, different theological emphases, different understandings of how to practice faith in a pluralistic society. Finding your community often means finding the specific Islamic expression that resonates with you.
+
+The question of Islamic law and American law comes up frequently. Sharia, in many conversations, is misunderstood as a monolithic code. In practice, it is a framework for living according to Islamic principles that individual Muslims and Islamic communities interpret differently. Most American Muslims navigate Islamic principles within American legal systems without viewing it as a contradiction.
+
+The experience of being visibly Muslim in America has changed significantly. Hijab, niqab, beards, Islamic dress — these are visible markers that have become more politically charged in some eras and less so in others. The choice to display or conceal Islamic identity is a choice that carries different meanings in different contexts.
+
+What binds American Muslim identity is usually: faith, family, values of justice and community, and often some relationship with the Muslim-majority world even if that relationship is complicated.`,
+    date: '2026-03-24',
+    category: 'Religion',
+    readTime: 6
+  },
+  {
+    slug: 'islamic-calendar-2026-holidays-observances',
+    title: 'Islamic Calendar 2026: Holidays, Observances, and What Each One Means',
+    excerpt: 'A guide to the Islamic holidays and observances in 2026 and their spiritual significance.',
+    content: `The Islamic calendar is a lunar calendar, which means it shifts approximately eleven days earlier each year relative to the Gregorian calendar. This means Islamic holidays rotate through different seasons — Ramadan can fall in spring, summer, fall, or winter depending on the year. In 2026, Ramadan falls in the winter months, which creates a different experience than summer Ramadan.
+
+Ramadan 2026 runs from approximately February 28 to March 29. This is the month when Muslims fast from dawn to sunset, practice intensive prayer and Quran study, and emphasis the spiritual dimensions of Islam. The fast is from food and water but also from harmful speech, anger, and negative behaviors. The goal is to develop taqwa — God consciousness and self-discipline.
+
+Eid al-Fitr, the festival marking the end of Ramadan, is celebrated on approximately March 30. It is a day of prayer, community gathering, giving charity (Zakat al-Fitr), and celebration with family and food. The emphasis is on gratitude, community, and generosity.
+
+Isra and Miraj, commemorating the Prophet Muhammad's night journey to Jerusalem and ascension to heaven, falls on approximately March 17 in 2026. It is a day of reflection on spiritual importance and connection to the sacred sites of Islam.
+
+Eid al-Adha, the festival of sacrifice, commemorates Abraham's willingness to sacrifice his son in obedience to God. In 2026, this falls in June and is the second major Islamic holiday. It involves animal sacrifice, giving meat to family and the poor, and gatherings. For many Muslims, it is the more important of the two Eids.
+
+The Islamic calendar follows the lunar months of Muharram, Safar, Rabi al-Awwal, and so on. Many Muslims mark personal spiritual observances throughout these months even if they are not widely celebrated public holidays.`,
+    date: '2026-03-24',
+    category: 'Religion',
+    readTime: 6
+  },
+] = [
+  {
     slug: "ramadan-ending-eid-al-fitr-2026",
     title: "Eid al-Fitr 2026: What the Celebration Means and How Muslims Observe It",
     description: "Ramadan ends and Eid al-Fitr begins. Here is what the celebration means, how it is observed around the world, and what makes it one of the most joyful days on the Islamic calendar.",
@@ -46,7 +85,6 @@ Where the identity question gets more complicated is in moments when one dimensi
 
 What is also real is that Muslim Americans have built institutions, elected representatives, produced artists and scientists and athletes, and contributed to every field of American life. The identity is not a problem to be solved. It is a richness that the country is still learning how to see.`
   },
-] = [
   {
     slug: "what-is-ramadan-plain-english-guide",
     title: "What Is Ramadan? A Plain English Guide for Americans",
