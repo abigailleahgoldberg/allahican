@@ -46,7 +46,6 @@ The Islamic calendar follows the lunar months of Muharram, Safar, Rabi al-Awwal,
     category: 'Religion',
     readTime: 6
   },
-] = [
   {
     slug: "ramadan-ending-eid-al-fitr-2026",
     title: "Eid al-Fitr 2026: What the Celebration Means and How Muslims Observe It",
