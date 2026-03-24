@@ -7,7 +7,7 @@ export interface BlogPost {
   content: string;
 }
 
-export const blogPosts: BlogPost[
+export const blogPosts: BlogPost[] = [
   {
     slug: 'american-islam-2026-identity-belonging',
     title: 'American Islam in 2026: Identity, Belonging, and Community',
