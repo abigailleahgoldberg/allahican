@@ -25,7 +25,6 @@ The experience of being visibly Muslim in America has changed significantly. Hij
 What binds American Muslim identity is usually: faith, family, values of justice and community, and often some relationship with the Muslim-majority world even if that relationship is complicated.`,
     date: '2026-03-24',
     category: 'Religion',
-    readTime: 6
   },
   {
     slug: 'islamic-calendar-2026-holidays-observances',
@@ -44,7 +43,6 @@ Eid al-Adha, the festival of sacrifice, commemorates Abraham's willingness to sa
 The Islamic calendar follows the lunar months of Muharram, Safar, Rabi al-Awwal, and so on. Many Muslims mark personal spiritual observances throughout these months even if they are not widely celebrated public holidays.`,
     date: '2026-03-24',
     category: 'Religion',
-    readTime: 6
   },
   {
     slug: "ramadan-ending-eid-al-fitr-2026",
